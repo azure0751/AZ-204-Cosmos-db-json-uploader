@@ -1,0 +1,26 @@
+{
+  "name": "random_name_359",
+  "age": 27,
+  "isEmployed": false,
+  "salary": 143398,
+  "hobbies": [
+    "reading",
+    "traveling",
+    "sports"
+  ],
+  "address": {
+    "street": "random_street_52",
+    "city": "random_city_71",
+    "zipcode": "71784"
+  },
+  "random_property_187": "random_string_258",
+  "random_property_429": [
+    418,
+    "random_string_214",
+    [
+      "random_string_814",
+      "random_string_373"
+    ]
+  ],
+  "random_property_594": true
+}

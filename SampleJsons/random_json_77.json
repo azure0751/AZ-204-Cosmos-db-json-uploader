@@ -1,0 +1,107 @@
+{
+  "name": "random_name_733",
+  "age": 75,
+  "isEmployed": false,
+  "salary": 80364,
+  "hobbies": [
+    "reading",
+    "traveling",
+    "sports"
+  ],
+  "address": {
+    "street": "random_street_80",
+    "city": "random_city_21",
+    "zipcode": "60677"
+  },
+  "random_property_242": true,
+  "random_property_839": "random_string_401",
+  "random_property_221": [
+    [
+      710,
+      161,
+      586,
+      [
+        true,
+        "random_string_23",
+        true,
+        [
+          333,
+          0,
+          [
+            "random_string_494",
+            "random_string_552",
+            "nested_object_limit"
+          ],
+          [
+            305,
+            [
+              599,
+              [
+                "random_string_130",
+                "nested_object_limit"
+              ],
+              "nested_object_limit",
+              true
+            ]
+          ],
+          false
+        ],
+        "nested_object_limit"
+      ],
+      [
+        [
+          [
+            "nested_object_limit",
+            [
+              "random_string_868",
+              "nested_object_limit",
+              "nested_object_limit"
+            ],
+            "random_string_844",
+            [
+              false,
+              "nested_object_limit",
+              true,
+              "random_string_517",
+              "nested_object_limit"
+            ]
+          ],
+          "nested_object_limit",
+          "nested_object_limit",
+          "random_string_411",
+          [
+            [
+              564,
+              296,
+              [
+                true,
+                "nested_object_limit",
+                true,
+                663,
+                "nested_object_limit"
+              ],
+              "nested_object_limit",
+              "nested_object_limit"
+            ],
+            [
+              "random_string_891",
+              false
+            ],
+            597,
+            "random_string_515"
+          ]
+        ],
+        [
+          944,
+          "random_string_683",
+          "random_string_69"
+        ],
+        "random_string_923",
+        false,
+        "random_string_164"
+      ]
+    ],
+    "nested_object_limit"
+  ],
+  "random_property_163": "nested_object_limit"
+}

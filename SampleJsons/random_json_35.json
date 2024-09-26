@@ -1,0 +1,29 @@
+{
+  "name": "random_name_925",
+  "age": 38,
+  "isEmployed": false,
+  "salary": 70682,
+  "hobbies": [
+    "reading",
+    "traveling",
+    "sports"
+  ],
+  "address": {
+    "street": "random_street_21",
+    "city": "random_city_87",
+    "zipcode": "12401"
+  },
+  "random_property_21": 489,
+  "random_property_944": "nested_object_limit",
+  "random_property_238": [
+    true,
+    false,
+    "nested_object_limit",
+    "random_string_296"
+  ],
+  "random_property_948": {
+    "nested_property_569": 669,
+    "nested_property_861": 256,
+    "nested_property_276": 782
+  }
+}
