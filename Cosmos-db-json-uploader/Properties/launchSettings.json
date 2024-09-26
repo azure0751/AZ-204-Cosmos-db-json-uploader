@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cosmos-db-json-uploader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
